@@ -1,5 +1,3 @@
-## What is it?
-This source code is an Spring Boot web application).
  
 Tested with
 * Docker 19.03
@@ -8,7 +6,6 @@ Tested with
 * Spring Boot 2.2.4.RELEASE
 * Maven
 
-For explanation, please visit this article - [Docker and Spring Boot](https://mkyong.com/docker/docker-spring-boot-examples/)
 
 ## How to run this?
 ```bash
